@@ -1,7 +1,7 @@
 
 ### Olá Eu Sou O Thiago Costa 🛹
 
-[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/thiago-costa-a4ba92218/)
+[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-costa-a4ba92218/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/th_costask8/)
 
 
